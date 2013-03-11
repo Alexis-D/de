@@ -1,3 +1,5 @@
+## Differential evolution (DE) in Python
+
 This is a quick implementation of differential evolution (Storn & Price, 1997) in Python 3. You should check out their paper _Differential evolution-a simple and efficient heuristic for global optimization over continuous spaces_ it's really well written and interesting.
 
 You can see a quick example of how to use it at the bottom of de.py. It tries to minimize the Ackley function and show the results of DE for different numbers of iterations.
@@ -69,3 +71,9 @@ You can also take a look at the output of `pydoc`.
         /home/alexis/de/de.py
     
     
+## Relevants links/images
+
+* [Differential Evolution homepage](http://www1.icsi.berkeley.edu/~storn/code.html#hist)
+* [DE original paper](https://bitbucket.org/12er/pso/src/b448ff0db375c1ac0c55855e9f19aced08b44ca6/doc/literature/heuristic%20Search/Differential%20Evolution%20-%20a%20simple%20and%20efficient%20heuristic%20for%20global%20optimization%20over%20continuous%20spaces.pdf)
+
+![DE algorithm](http://www1.icsi.berkeley.edu/~storn/de2.jpg)
